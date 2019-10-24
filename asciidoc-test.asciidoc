@@ -1,7 +1,7 @@
 [role="pagenumrestart"]
 == Introducing the Trusted Committer Role
 
-The Trusted Committer (TC) role is one of the key roles in an
+https://learning.oreilly.com/videos/the-trusted-committer/9781492047599[The Trusted Committer (TC) role] is one of the key roles in an
 InnerSource community. Think of TCs as the people in a community that
 you trust with important technical decisions and with mentoring
 contributors to ultimately get contributions over the finish line.
